@@ -1,0 +1,84 @@
+.zero_button {
+	border: 2px solid lightgrey;
+	border-radius: 100px;
+	width: 250px;
+	height: 65px;
+	box-shadow: 1px 4px 12px 0px rgba(0,0,0,0.75);
+}
+.one_button {
+	border: 2px solid green;
+	border-radius: 100px;
+	width: 246px;
+	height: 61px;
+}
+.two_button {
+	border: 2px solid lightgrey;
+	border-radius: 100px;
+	width: 242px;
+	height: 57px;
+}
+.two_button {
+	border: 2px solid rgba(30,255,0,0.3);
+	background-color: rgba(30,255,0,0.3);
+	border-radius: 100px;
+	width: 242px;
+	height: 57px;
+}
+.text {
+	padding-left: 45px;
+	font-size: 40px;
+	padding-top: 5px;
+}
+
+/* Black / White */
+.box {
+	border: 2px solid black;
+	width: 300px;
+	height: 40px;
+}
+.black {
+	margin-left: 10px;
+	display: inline-block;
+	font-size: 35px;
+}
+.white {
+	background-color: black;
+	color: white;
+	font-size: 35px;
+	display: inline-block;
+}
+/* NAV. BAR */
+ul {
+	margin: 0px;
+	padding: 0px;
+	background-color: red;
+	list-style-type: none; 
+	overflow: hidden;
+}
+li {
+	float: left;
+}
+li a:hover {
+	background-color: black;
+}
+li a {
+	display: block;
+	color: white;
+	text-decoration: none;
+	padding: 14px 16px;
+	text-align: center;
+}
+/* 2.0 */
+.nav {background-color: #30ad24; display: inline-block; padding: 1%; color: white; }
+.nav:hover {background-color: black;}
+.menu {background-color: #30ad24}
+/* Gallery */
+.gallery {
+	border: 2px solid silver;
+	width: 200px;
+	height: 150px;
+	display: inline-block;
+}
+.ab {
+	margin-left: 10px;
+}
